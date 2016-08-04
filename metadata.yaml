@@ -1,0 +1,26 @@
+_repo: The-Life-of-John-Bunyan_1037
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Venables, Edmund
+    birthdate: 1819
+    deathdate: 1895
+    gutenberg_agent_id: '518'
+    url: http://www.gutenberg.org/2009/agents/518
+description: ''
+gutenberg_issued: '1997-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1037'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, English -- Early modern, 1500-1700 -- Biography'
+- !lcsh 'Bunyan, John, 1628-1688'
+- !lcc 'PR'
+- !lcsh 'Puritans -- England -- Clergy -- Biography'
+- GITenberg
+title: The Life of John Bunyan
+url: http://www.gutenberg.org/ebooks/1037
